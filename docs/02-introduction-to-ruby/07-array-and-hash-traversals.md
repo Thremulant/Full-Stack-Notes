@@ -160,4 +160,4 @@ total_price = toys_and_prices.values.reduce(:+)
 #### Resources
 
 - [Guide to Handy Ruby Array Helper Methods](https://www.digitalocean.com/community/tutorials/how-to-use-array-methods-in-ruby)
-- [Get the most out of Ruby by using the .select .map and .reduce methods together](https://www.freecodecamp.org/news/ruby-using-the-select-map-and-reduce-methods-together-a9b2af30804b/s)
+- [Get the most out of Ruby by using the .select .map and .reduce methods together](https://www.freecodecamp.org/news/ruby-using-the-select-map-and-reduce-methods-together-a9b2af30804b/)
